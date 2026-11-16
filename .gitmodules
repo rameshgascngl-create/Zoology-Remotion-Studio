@@ -1,0 +1,3 @@
+[submodule "integrations/claude-code-video-toolkit"]
+	path = integrations/claude-code-video-toolkit
+	url = https://github.com/digitalsamba/claude-code-video-toolkit.git
